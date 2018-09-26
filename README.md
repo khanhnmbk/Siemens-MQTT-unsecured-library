@@ -2,7 +2,7 @@
 This is the offical MQTT library for PLC S7-1500, S7-1200 published by Siemens
 
 ## Getting Started
-MQTT is a light-weight for M2M communication. This library enable Siemens'PLCs 
+MQTT is a light-weight protocol for M2M communication. This library enable Siemens'PLCs 
 (S7-1200, S7-1500) to connect to unsecured MQTT broker.
 
 ## Requirement

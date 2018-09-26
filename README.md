@@ -7,7 +7,7 @@ MQTT is a light-weight protocol for M2M communication. This library enable Sieme
 
 ## Requirement
 - PLC S7-1200 with firmware 4.0 or above, PLC S7-1500 (any firmware)
-- Available MQTT broker (for test purpose, test.mosquitto.org is a good choice)
+- Available MQTT broker (for test purpose, [(test.mosquitto.org)] is a good choice)
 - Internet connection (cable)
 
 ## Deployment
